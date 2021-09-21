@@ -1,0 +1,55 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float : none;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+    float : none;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+
+.copy_right_footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 100%;
+  bottom: 0;
+  position: fixed;
+}
+
+.purple{
+  color: hotpink;
+  font-size: 25px;
+}
+
+
+body{
+  font-family: 'Annie Use Your Telescope', cursive;
+  font-size: 25px;
+}
+
+#nav {
+  color: aqua;
+  font-size: 25px;
+}
+
+canvas {
+  margin-top: 25px;
+}
